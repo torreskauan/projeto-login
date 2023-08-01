@@ -9,6 +9,7 @@
     }
     section#login{
         width: 90vw;
+        height: 320px;
     }
     
     section#login > div#imagem{
@@ -30,7 +31,7 @@
     }
 
     section#login p{
-        font-size: 1.1em;
+        font-size: 0.8em;
     }
 
 
@@ -45,6 +46,7 @@
     }
     section#login{
         width: 950px;
+        height: 360px;
     }
     
     section#login > div#imagem{
@@ -66,9 +68,9 @@
     }
 
     section#login p{
-        font-size: 1.3em;
+        font-size: 1em;
+        margin: 20PX 0PX;
     }
-
 
 
 }
